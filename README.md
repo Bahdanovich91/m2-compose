@@ -9,7 +9,7 @@ Git https://git-scm.com/download/win
 ### STOP LOCAL SERVERS (XAMPP, OPENSERVER, DENWER, APACHE2, NGINX, MYSQL, etc)
 
 ### CLONE THIS REPO VIA GIT (30min)
-git clone git@github.com:alexamanov/m2-compose.git
+git clone github.com/Bahdanovich91/m2-compose.git
 
 ### OR DOWNLOAD ZIP
 ![ZIP](guide/zip.png?raw=true "ZIP")
